@@ -1,5 +1,7 @@
 # rust_stuff
 
+LEARN RUST, PRACTICE RUST!
+
 ## Goal
 Learn and practice rust from the Rust Book
 
